@@ -1,5 +1,5 @@
 {
-  "name": "Trempale/HelloWorld",
+  "name": "trempale/hello_world",
   "description": "A simple module",
   "type": "magento2-module",
   "version": "1.0.0",
@@ -15,7 +15,7 @@
     "map": [
       [
         "*",
-        "Trempale/HelloWorld"
+        "trempale/hello_world"
       ]
     ]
   }
